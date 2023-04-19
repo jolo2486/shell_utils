@@ -26,4 +26,4 @@ do
   fi
 done
 
-echo "'$done_word' appeared in $filename. Considering it done!"
+echo "'$done' appeared in $filename. Considering it done!"
