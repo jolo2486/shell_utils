@@ -21,7 +21,7 @@ do
     break
   else
     count=$(grep -o -i "$running" "$filename" | wc -l)
-    echo -ne "\r'$running : $count        "
+    echo -ne "\r$running : $count      ..."
     sleep $interval # wait 5 sec, then check again.
   fi
 done
