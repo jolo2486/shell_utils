@@ -15,3 +15,10 @@ The script will simply output the number of times that the word \<running\> was 
 
 ### Example usage
 `./runstatus.sh status.txt working done! 5`
+
+## projinit
+### Usage
+`./projinit <path to project folder> <subfolder1> <subfolder2> ...`
+
+Initializes an existing (creates it if it doesn't exist) folder as a project folder
+by creating the specified subfolders, placing .gitignores in all folders and a template environment.yml file. 
