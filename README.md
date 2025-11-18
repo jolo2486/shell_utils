@@ -1,5 +1,5 @@
 # shell_utils
-I will be collecting various shell utilities here; simple but potentially useful.
+Just collecting various shell utilities here; simple things that I use; nothing fancy. These are simple tools without any frills, meant for personal use; use them at your own discretion and risk.
 
 # Scripts
 
